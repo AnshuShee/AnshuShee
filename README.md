@@ -1,65 +1,62 @@
-<h1 align="center">Hi 👋, I'm Anshu Shee</h1>
-<h3 align="center">B.Tech CSE Student | Full Stack Developer | UI/UX Enthusiast</h3>
+<h1 align="center">
+Hi 👋, I'm Anshu Shee
+</h1>
+
+<h3 align="center">
+🚀 Full Stack Web Developer | B.Tech Computer Engineering Student
+</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AnshuShee&label=Profile%20views&color=0e75b6&style=flat"/>
+Surendranagar, Gujarat, India 🇮🇳
 </p>
 
 ---
 
-# 👨‍💻 About Me
-
-🎓 B.Tech Computer Science Student  
-💻 Aspiring **Full Stack Web Developer**  
-🚀 Currently learning **MERN Stack**  
-🎨 Interested in **UI/UX Design**  
-🌱 Passionate about building **modern web applications**
-
----
-
-# 🧑‍🦽 Developer Mode
+## 👨‍💻 Animated Introduction
 
 <p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320">
-</p>
-
-<p align="center">
-Building the future — one line of code at a time 💻
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 About Me
 
-### Languages
-C • JavaScript • C++
+💻 B.Tech Computer Engineering Student passionate about building **modern web applications**
 
-### Frontend
-HTML • CSS • React.js • Next.js
+⚡ Currently learning **advanced full-stack development**
 
-### Backend
-Node.js • Express.js
+🧠 Interested in **AI, Web Development, and Scalable Systems**
 
-### Database
-MongoDB • Supabase
-
-### Tools
-Git • GitHub • Figma
+🎯 Goal: Become a **top software engineer & build impactful tech products**
 
 ---
 
-# 🚀 Projects
+# 🛠 Tech Stack
 
-### 🐺 Lead Beast
-AI-powered **B2B Prospecting Engine**
+### 💻 Programming Languages
 
-Tech Stack  
-Next.js • Supabase • FastAPI • Shadcn UI
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" />
+</p>
 
-Features
-- Multi-platform lead scraping
-- AI lead generation
-- Intelligent lead scoring
+### ⚡ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🎨 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
+</p>
 
 ---
 
@@ -67,19 +64,9 @@ Features
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnshuShee&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnshuShee&show_icons=true&theme=tokyonight" />
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshuShee&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuShee&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuShee&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -93,25 +80,43 @@ Features
 
 ---
 
-# 🐍 Contribution Snake
+# 🔥 Featured Projects
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
+🚀 **Lead Beast**  
+AI powered B2B prospecting engine that automates lead research and prioritization.
+
+⚡ **Modern Developer Portfolio**  
+Interactive portfolio with smooth animations, magnetic buttons and 3D hover effects.
+
+🌐 **Full Stack Web Apps**  
+Projects using **React, Node.js, Express and MongoDB**
 
 ---
 
 # 🌐 Connect With Me
 
-💼 LinkedIn  
-https://www.linkedin.com/in/anshu-shee-3119183a0/
+<p align="center">
 
-📧 Email  
-anshushee@gmail.com
+<a href="https://github.com/AnshuShee">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
 
-🐙 GitHub  
-https://github.com/AnshuShee
+<a href="https://www.linkedin.com/in/anshu-shee-3119183a0/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
-⭐ If you like my work, consider giving a **star to my repositories!**
+# Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AnshuShee&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+⭐️ From <a href="https://github.com/AnshuShee">Anshu Shee</a>
+</p>
