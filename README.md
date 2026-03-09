@@ -32,7 +32,7 @@ Building the future — one line of code at a time 💻
 # 🚀 Tech Stack
 
 ### Languages
-C • JavaScript
+C • JavaScript • C++
 
 ### Frontend
 HTML • CSS • React.js • Next.js
