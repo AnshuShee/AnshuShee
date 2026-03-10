@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Anshu+Shee;Full+Stack+Developer;B.Tech+CSE+Student;UI%2FUX+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Anshu+Shee;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Applications" />
 </h1>
 
 <h3 align="center">B.Tech CSE Student | Full Stack Developer | UI/UX Enthusiast</h3>
