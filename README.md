@@ -81,26 +81,30 @@ Features
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnshuShee&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnshuShee&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuShee&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshuShee&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshuShee&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuShee&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshuShee&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
 ---
 
 # 📈 Contribution Graph
