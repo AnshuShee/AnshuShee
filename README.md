@@ -1,62 +1,120 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Anshu+Shee;Full+Stack+Developer;B.Tech+CSE+Student;UI%2FUX+Enthusiast" />
-</h1><!-- HEADER -->
+</h1>
+
+<h3 align="center">B.Tech CSE Student | Full Stack Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:2c5364&height=220&section=header&text=Anshu%20Shee&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Anshu+Shee;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Apps;Always+Learning+New+Tech"/>
+<img src="https://komarev.com/ghpvc/?username=AnshuShee&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Engineering Student  
-- 💻 Full Stack Web Developer  
-- 📍 Surendranagar, Gujarat, India  
-- 🚀 Passionate about building modern web applications  
-- 🧠 Currently learning advanced **MERN Stack**
+🎓 B.Tech Computer Science Student  
+💻 Aspiring **Full Stack Web Developer**  
+🚀 Currently learning **MERN Stack**  
+🎨 Interested in **UI/UX Design**  
+🌱 Passionate about building **modern web applications**
 
 ---
 
-# ⚡ Tech Stack
+# 🧑‍🦽 Developer Mode
+
+<p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320">
+</p>
+
+<p align="center">
+Building the future — one line of code at a time 💻
+</p>
+
+---
+
+# 🚀 Tech Stack
 
 ### Languages
+C • JavaScript • C++
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" />
-</p>
+### Frontend
+HTML • CSS • React.js • Next.js
 
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-</p>
+### Backend
+Node.js • Express.js
 
 ### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+MongoDB • Supabase
 
 ### Tools
+Git • GitHub • Figma
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+---
+
+# 🚀 Projects
+
+### 🐺 Lead Beast
+AI-powered **B2B Prospecting Engine**
+
+Tech Stack  
+Next.js • Supabase • FastAPI • Shadcn UI
+
+Features
+- Multi-platform lead scraping
+- AI lead generation
+- Intelligent lead scoring
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnshuShee&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshuShee&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuShee&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🚀 Developer Mindset
+# 📈 Contribution Graph
 
-```cpp
-while(alive){
-   eat();
-   code();
-   buildProjects();
-   learnNewTech();
-   repeat();
-}
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshuShee&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/anshu-shee-3119183a0/
+
+📧 Email  
+anshushee@gmail.com
+
+🐙 GitHub  
+https://github.com/AnshuShee
+
+---
+
+⭐ If you like my work, consider giving a **star to my repositories!**
