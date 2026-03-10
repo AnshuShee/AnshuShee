@@ -36,19 +36,33 @@ Building the future — one line of code at a time 💻
 # 🚀 Tech Stack
 
 ### Languages
-C • JavaScript • C++
+
+![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge\&logo=c\&logoColor=00ffff)
+![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge\&logo=c%2B%2B\&logoColor=00ffff)
+![JavaScript](https://img.shields.io/badge/Javascript-0A0A0A?style=for-the-badge\&logo=javascript\&logoColor=00ffff)
 
 ### Frontend
-HTML • CSS • React.js • Next.js
+
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge\&logo=react\&logoColor=00ffff)
+![Next](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge\&logo=nextdotjs\&logoColor=00ffff)
+![HTML](https://img.shields.io/badge/HTML-0A0A0A?style=for-the-badge\&logo=html5\&logoColor=00ffff)
+![CSS](https://img.shields.io/badge/CSS-0A0A0A?style=for-the-badge\&logo=css3\&logoColor=00ffff)
 
 ### Backend
-Node.js • Express.js
+
+![Node](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge\&logo=node.js\&logoColor=00ffff)
+![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge\&logo=express\&logoColor=00ffff)
 
 ### Database
-MongoDB • Supabase
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge\&logo=mongodb\&logoColor=00ffff)
+![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge\&logo=supabase\&logoColor=00ffff)
 
 ### Tools
-Git • GitHub • Figma
+
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge\&logo=git\&logoColor=00ffff)
+![GitHub](https://img.shields.io/badge/Github-0A0A0A?style=for-the-badge\&logo=github\&logoColor=00ffff)
+![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge\&logo=figma\&logoColor=00ffff)
 
 ---
 
