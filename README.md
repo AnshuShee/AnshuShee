@@ -9,6 +9,9 @@
 </p>
 
 ---
+<table>
+<tr>
+<td width="60%">
 
 # 👨‍💻 About Me
 
@@ -18,13 +21,15 @@
 🎨 Interested in **UI/UX Design**  
 🌱 Passionate about building **modern web applications**
 
+</td>
 
+<td width="40%" align="center">
 
-## ⚡ Developer Mode
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
-</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
 Building the future — one line of code at a time 💻
