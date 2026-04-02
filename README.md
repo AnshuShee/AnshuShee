@@ -1,60 +1,64 @@
-
-# Anshu Shee
+# ⚡ ANSHU_SHEE // FULL_STACK_NETRUNNER
 
 <div align="center">
-  <img src="https://cdn.pixabay.com/animation/2024/05/02/07/43/07-43-14-111_512.gif" width="350px" alt="Developer Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJpZHZxeW41Z3M5M3B0bmh3Zmx0cWF3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/fB2mTCp729eYp16Z6r/giphy.gif" width="450px" alt="Cyberpunk Dev Animation">
 </div>
 
-### <img src="https://raw.githubusercontent.com/n-f-v/n-f-v/master/run.gif" width="25" height="25"> About Me
-I am a B.Tech Computer Science student and a Full Stack Web Developer focused on building high-performance, scalable web applications. I specialize in the MERN stack and Next.js, blending technical logic with modern UI/UX design principles.
+### 🧬 SYSTEM_OVERVIEW
+I am a B.Tech Computer Science student and a Full Stack Web Developer. I specialize in the **MERN stack** and **Next.js**, hacking together high-performance scalable web applications with a focus on high-end **UI/UX (Figma)**.
 
-#### <img src="https://raw.githubusercontent.com/MartinVeron/MartinVeron/master/assets/link.gif" width="20" height="20"> Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshushee) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](#) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+#### 🔌 NEURAL_LINKS
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00f2ff)](https://linkedin.com/in/anshushee) 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white&color=ff0055)](#) 
+[![Email](https://img.shields.io/badge/DIRECT_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00f2ff)](mailto:your-email@example.com)
 
 ---
 
-### <img src="https://raw.githubusercontent.com/MartinVeron/MartinVeron/master/assets/code.gif" width="25" height="25"> Tech Stack
+### 🛠️ TECH_STACK
 
-| Category | Tools & Technologies |
+| LAYER | PROTOCOLS |
 | :--- | :--- |
-| **Frontend** | React.js, Next.js, Tailwind CSS, Glassmorphism, Responsive Design |
-| **Backend** | Node.js, Express.js, FastAPI, Python |
-| **Database** | MongoDB, Supabase (PostgreSQL) |
-| **Design** | Figma (High-end Portfolio Layouts, UI/UX Design) |
-| **Languages** | JavaScript (ES6+), C, C++, Python |
+| **FRONTEND** | React.js, Next.js, Tailwind CSS, Glassmorphism |
+| **BACKEND** | Node.js, Express.js, FastAPI, Python |
+| **DATABASE** | MongoDB, Supabase (PostgreSQL) |
+| **DESIGN** | Figma (High-end Layouts, UI/UX) |
+| **LANGUAGES** | JavaScript (ES6+), C, C++, Python |
 
 ---
 
-### <img src="https://raw.githubusercontent.com/MartinVeron/MartinVeron/master/assets/graph.gif" width="25" height="25"> GitHub Stats
+### 📈 TERMINAL_STATS
 
-![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshuShee&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuShee&layout=compact&theme=transparent)
-
----
-
-### <img src="https://raw.githubusercontent.com/MartinVeron/MartinVeron/master/assets/cup.gif" width="25" height="25"> Achievements
-* **AI Product Hackathon 2026**: Successfully deployed and launched a project during the March 2026 event.
-* **Full Stack Expertise**: Proficient in deploying full-cycle MERN and FastAPI applications.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AnshuShee&show_icons=true&theme=radical&hide_border=true" alt="Anshu's GitHub stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuShee&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/MartinVeron/MartinVeron/master/assets/game.gif" width="25" height="25"> Beyond the Code
-When I'm not debugging or designing in Figma, you'll find me:
-* Training at the gym to achieve an aesthetic physique.
-* Following football and analyzing tactical team comparisons.
-* Keeping up with the latest in mid-range smartphone tech and camera gear.
+### 🏆 ARCHIVE_SUCCESS
+* **AI Product Hackathon 2026**: Successfully deployed a high-performance AI project (March 2026).
+* **Full Stack Mastery**: Proficient in deploying production-ready MERN and FastAPI architectures.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/MartinVeron/MartinVeron/master/assets/computer.gif" width="25" height="25"> Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshuShee/AnshuShee/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnshuShee/AnshuShee/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnshuShee/AnshuShee/output/github-contribution-grid-snake.svg">
-</picture>
+### ⚡ OFF_THE_GRID
+When the terminal is closed:
+* Training for an aesthetic physique (Broad shoulders // Lean waist).
+* Analyzing football tactics and professional player performance.
+* Tracking the latest mobile hardware and camera optics.
 
 ---
 
-*"Building the future with code, one pixel at a time."*
+### 🐍 CONTRIBUTION_GRID
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshuShee&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/AnshuShee/AnshuShee/output/github-contribution-grid-snake.svg" alt="Snake Animation" onerror="this.src='https://capsule-render.vercel.app/api?type=waving&color=FF0055&height=100&section=footer'"/>
+</div>
+
+---
+
+<p align="center">
+  <code>[SYSTEM STATUS: ONLINE] // "BUILDING THE FUTURE, ONE PIXEL AT A TIME."</code>
+</p>
