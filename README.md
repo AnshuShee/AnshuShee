@@ -25,7 +25,7 @@
 
 ---
 
-## ![thunder](https://img.shields.io/badge/-About%20Me-0f0c29?style=flat-square&logo=aboutdotme&logoColor=00f5ff) &nbsp; About Me
+## ![thunder](https://img.shields.io/badge/-About%20Me-0f0c29?style=flat-square&logo=aboutdotme&logoColor=00f5ff) &nbsp; 
 
 I am a Full Stack Developer and B.Tech CSE student based in Gujarat, India. I specialize in building scalable web applications using the MERN stack and integrating AI-driven solutions to solve real-world problems. Currently, I am focused on developing **Lead Beast**, an AI-powered B2B prospecting engine, while expanding my expertise in Next.js, FastAPI, and System Design.
 
