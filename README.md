@@ -27,18 +27,12 @@
 
 ## ⚡ About Me
 
-```typescript
-const anshu: Developer = {
-  name:      "Anshu Shee",
-  location:  "Gujarat, India 🇮🇳",
-  education: "B.Tech CSE Student",
-  focus:     ["Full Stack Web Dev", "MERN Stack", "UI/UX Design"],
-  currentProject: "Lead Beast — AI-Powered B2B Prospecting Engine",
-  learning:  ["Next.js", "FastAPI", "System Design"],
-  funFact:   "I debug code at 2AM and call it 'productive' 🌙",
-  motto:     "Building the future — one commit at a time 💻"
-};
-```
+I am a Full Stack Developer and B.Tech CSE student based in Gujarat, India. I specialize in building scalable web applications using the MERN stack and integrating AI-driven solutions to solve real-world problems. Currently, I am focused on developing **Lead Beast**, an AI-powered B2B prospecting engine, while expanding my expertise in Next.js, FastAPI, and System Design.
+
+<img src="https://skillicons.dev/icons?i=rocket&theme=dark" width="16"/> &nbsp;**Current Project:** Lead Beast — AI-Powered B2B Prospecting  
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="16"/> &nbsp;**Learning:** Next.js, FastAPI, and Scalable System Design  
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="16"/> &nbsp;**Interests:** UI/UX Design, Open Source, and AI Automation  
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="16"/> &nbsp;**Contact:** anshushee@gmail.com
 
 ## 🌐 Let's Connect
 
