@@ -1,101 +1,229 @@
-# [cite_start]Hi there, I'm Anshu Shee [cite: 11] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&width=600&lines=B.TECH+CSE+Student;Aspiring+Full+Stack+Web+Developer;UI%2FUX+Enthusiast)](https://git.io/typing-svg)
-
-Welcome to my GitHub profile!
-
-### 🚀 About Me
-
-* [cite_start]I am an aspiring Full Stack Web Developer with a strong interest in building modern, user-friendly web applications[cite: 12, 15].
-* [cite_start]I have a solid foundation in HTML, CSS, C, and JavaScript, and I am currently practicing the MERN stack (MongoDB, Express.js, React.js, Node.js) to develop complete end-to-end solutions[cite: 16, 22].
-* [cite_start]I enjoy working on both frontend interfaces and backend logic, creating clean, responsive designs while ensuring efficient data handling and application performance[cite: 17].
-* [cite_start]Through academic work and personal projects—including designing UI components and brand logos for companies like FleetMetrics—I have gained hands-on experience with APIs and version control using Git and GitHub[cite: 18].
-* [cite_start]🌱 I am a motivated learner who enjoys exploring new technologies, improving problem-solving skills, and staying updated with modern web development practices[cite: 19]. I'm also currently putting together a presentation on the core mechanics of how the internet works!
-* [cite_start]💼 I am actively seeking internships, entry-level roles, or learning opportunities where I can grow as a developer and contribute to real-world projects[cite: 20].
-* [cite_start]📍 Location: Surendranagar, Gujarat, India[cite: 13].
-
----
-
-### 🏆 My GitHub Trophy Case
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AnshuShee&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Anshu's Trophies" />
-  </a>
+
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff0,100:9d00ff&height=200&section=header&text=ANSHU%20SHEE&fontSize=60&fontColor=00fff0&fontAlignY=38&desc=Initializing%20Developer%20Profile...&descAlignY=60&descSize=18&descColor=ffffff&animation=fadeIn" />
+
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/AnshuShee">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;UI%2FUX+Craftsman;Problem+Solver+%7C+System+Thinker;Building+the+Future+%E2%80%94+One+Commit+at+a+Time" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=AnshuShee&label=PROFILE+VIEWS&color=00fff0&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/AnshuShee?label=FOLLOWERS&color=9d00ff&style=flat-square" />
+
 </div>
 
 ---
 
-### 💻 Tech Stack & Skills
+<!-- IDENTITY TERMINAL BLOCK -->
+```yaml
+# ╔══════════════════════════════════════════════╗
+# ║         OPERATOR IDENTIFICATION FILE         ║
+# ╚══════════════════════════════════════════════╝
 
-<div align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</div>
-
-[cite_start]**Other Skills:** UI/UX Basics, AWS Application Migration Service, HTML/CSS Validation[cite: 6, 22].
+operator     : Anshu Shee
+alias        : AnshuShee
+location     : Gujarat, India  [28.6°N / 77.2°E]
+institution  : B.Tech Computer Science Engineering
+stack        : MERN · Next.js · Supabase · FastAPI
+status       : [ ONLINE ] — Building & Shipping
+mission      : Turning ideas into production-grade systems
+philosophy   : "Write code that outlives the deadline."
+```
 
 ---
 
-### 🐍 Watch the Snake Eat My Contributions!
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshuShee/AnshuShee/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnshuShee/AnshuShee/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnshuShee/AnshuShee/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-*(Remember: You still need to set up the GitHub Action from the previous instructions to make this snake image work!)*
+## `> whoami`
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<br/>
+
+- 👨‍💻 Full Stack Developer specializing in **MERN Stack**
+- 🖥️ Currently exploring **System Design & Advanced Backend**
+- 🔭 Building **real-world scalable applications**
+- 🌱 Passionate about **clean UI & performance optimization**
+- 🧠 Strong in **DSA & Problem Solving**
+- 🤝 Enjoy collaborating and working in **team environments**
+- 💡 Fun fact: I'm a **creative person** and I love my country 🇮🇳
+
+<br/>
+
+> *"The best engineers don't just write code —  
+> they eliminate problems."*
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320px" alt="Developer at work"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎓 Education & Certifications
+## `> ls ./active-missions`
 
-**Education:**
-* [cite_start]**CodingGita** — Bachelor of Engineering - BE, Computer Science (August 2025 - June 2029) [cite: 24, 25]
-* [cite_start]**Ultra Vision Academy** — Higher Secondary Science (June 2023 - March 2025) [cite: 26, 27]
+```bash
+$ git log --oneline --active-projects
 
-**Certifications:**
-* [cite_start]HTML and CSS for Beginners - Build a Website & Launch ONLINE [cite: 9]
-* [cite_start]AWS Application Migration Service (AWS-MGN) - A Technical Introduction [cite: 10]
+[ACTIVE]  🔴  LeadBeast       — AI-Powered B2B Prospecting Engine
+                                  Next.js · Supabase · FastAPI · Shadcn UI
+                                  Multi-platform scraping + intelligent lead scoring
 
----
+[ACTIVE]  🟡  Full Stack Path — Deep-diving MERN stack fundamentals
+                                  Node.js · Express · MongoDB · React
 
-### 🌐 Connect with Me
-
-* [cite_start]📧 Email: anshushee@gmail.com [cite: 2]
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/anshu-shee-3119183a0">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/anshu_shee">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.youtube.com/@AnshuShee007">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</div>
+[ACTIVE]  🟢  UI/UX Systems  — Designing high-fidelity interfaces in Figma
+                                  Translating design to pixel-perfect code
+```
 
 ---
 
-### ⚡ Random Dev Joke
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</div>
-
----
-
-### 📈 GitHub Stats
+## `> cat ./tech-stack.json`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshuShee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Anshu Shee's GitHub Stats" />
+
+### ⬡ Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### ⬡ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=F7DF1E)
+
+### ⬡ Tools
+
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
+
+---
+
+## `> ./stats --mode=dark`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnshuShee&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff0&icon_color=9d00ff&text_color=ffffff&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshuShee&theme=radical&hide_border=true&background=0d0d0d&stroke=00fff0&ring=9d00ff&fire=ff6e6e&currStreakLabel=00fff0&border_radius=10" />
+
+<br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuShee&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff0&text_color=ffffff&border_radius=10" />
+
+</div>
+
+---
+
+## `> ./contribution-graph`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshuShee&theme=react-dark&bg_color=0d0d0d&color=00fff0&line=9d00ff&point=00fff0&hide_border=true)](https://github.com/AnshuShee)
+
+</div>
+
+---
+
+## `> ./contribution-snake --render`
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## `> cat ./featured-project`
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### ⚡ LeadBeast — AI-Powered B2B Prospecting Engine
+
+```bash
+$ describe --project LeadBeast
+
+> Stack    : Next.js · Supabase · FastAPI · Shadcn UI
+> Function : Multi-platform lead scraping + AI scoring
+> Status   : [ IN DEVELOPMENT ] 🔴 LIVE BUILD
+```
+
+> An intelligent prospecting system that scrapes leads across platforms,
+> scores them with AI, and delivers conversion-ready pipelines.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> ./connect --channels`
+
+<div align="center">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00fff0&labelColor=0d0d0d)](https://www.linkedin.com/in/anshu-shee-3119183a0/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Send-0d0d0d?style=for-the-badge&logo=gmail&logoColor=9d00ff&labelColor=0d0d0d)](mailto:anshushee@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d0d0d)](https://github.com/AnshuShee)
+&nbsp;
+[![X](https://img.shields.io/badge/X-Follow-0d0d0d?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=0d0d0d)](https://x.com/anshu_shee)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-0d0d0d?style=for-the-badge&logo=youtube&logoColor=ff0000&labelColor=0d0d0d)](https://www.youtube.com/@AnshuShee007)
+
+<br/>
+
+</div>
+
+---
+
+<!-- SIGNATURE -->
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   "Clean code. Sharp systems. Zero excuses."                  ║
+║                                         — Anshu Shee          ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9d00ff,50:00fff0,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
