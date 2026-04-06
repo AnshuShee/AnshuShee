@@ -129,16 +129,5 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </div>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshuShee/AnshuShee/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnshuShee/AnshuShee/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnshuShee/AnshuShee/output/github-contribution-grid-snake.svg">
-</picture>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
-</div>
-  <p align="center"><em>⭐ If you like my work, consider giving a star to my repositories!</em></p>
+<p align="center"><em>⭐ If you like my work, consider giving a star to my repositories!</em></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=100&section=footer" width="100%"/>
