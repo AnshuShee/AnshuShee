@@ -16,15 +16,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </div>
 
-<div style="float: right; margin-left: 20px;">
-  <svg width="20" height="250" viewBox="0 0 20 250" xmlns="http://www.w3.org/2000/svg">
-    <line x1="10" y1="10" x2="10" y2="240" stroke="#00C853" stroke-width="4" stroke-dasharray="50 10" stroke-dashoffset="60" stroke-linecap="round">
-      <animate attributeName="stroke-dashoffset" values="60;0" dur="1.5s" repeatCount="indefinite" />
-    </line>
-  </svg>
-</div>
-
 ### 👤 About Me
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="190" width="400" align="right" style="margin-left: 20px;" alt="coding animation" />
 
 - 🎓 Pursuing **B.Tech in Computer Science**
 - 💻 Aspiring **Full Stack Developer** specializing in the **MERN Stack**
