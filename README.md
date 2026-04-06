@@ -19,15 +19,15 @@
 
 ### 👤 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="190" width="400" align="right" style="margin-left: 20px;" alt="coding animation" />
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" height="300" width="400" align="right" style="margin-left: 20px;" alt="coding animation" />
 
-- 🎓 Pursuing **B.Tech in Computer Science**
+- 🎓 Pursuing **B.Tech in Computer Science at Swaminarayan University**
 - 💻 Aspiring **Full Stack Developer** specializing in the **MERN Stack**
 - 💡 Passionate about clean **UI/UX** design and smooth animations
 - 🧠 Strong in **DSA & Problem Solving** — actively grinding [LeetCode](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
+- ▪️ Debugging the present to architect tomorrow.
 - 🤝 Love collaborating and working in **team environments**
-- 🏋️‍♂️ **Fun Fact:** When I'm not coding, you'll find me hitting my 6-day gym split working on an aesthetic physique!
-
+  
 <br clear="right"/>
 
 ### 🌐 Connect With Me
