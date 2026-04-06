@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Anshu+Shee;Aspiring+Full+Stack+Developer;MERN+%7C+Scalable+Web+Apps" alt="Typing SVG" />
@@ -126,6 +127,9 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<br><br>
 
 <p align="center"><em>⭐ If you like my work, consider giving a star to my repositories!</em></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=100&section=footer" width="100%"/>
