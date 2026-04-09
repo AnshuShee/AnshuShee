@@ -17,7 +17,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </div>
 
-### 👤 About Me
+### 🔸 About Me
 
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" height="300" width="400" align="right" style="margin-left: 20px;" alt="coding animation" />
 
