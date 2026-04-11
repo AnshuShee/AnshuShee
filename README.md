@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
 
-<br>
+<br><br>
 
 <div align="center"><b>Backend & Database</b></div>
 <div align="center">
@@ -81,7 +81,7 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </div>
 
-<br>
+<br><br>
 
 <div align="center"><b>Languages & Tools</b></div>
 <div align="center">
