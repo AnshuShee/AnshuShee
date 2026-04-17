@@ -27,6 +27,7 @@
 #### - 🧠 Strong in **DSA & Problem Solving** — actively grinding [LeetCode](https://leetcode.com/u/anshushee/)
 #### - ▪️ Debugging the present to architect tomorrow.
 #### - 🤝 Love collaborating and working in **team environments**
+#### - 🚀 Building real-world projects to turn ideas into impactful products
   
 <br clear="right"/>
 <div align="center">
