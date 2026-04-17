@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
-  <a href="" target="_blank">
+  <a href="https://drive.google.com/file/d/1tIN2Eg9MaP_1svhk3wWtslhlqmt2CxuL/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </div>
