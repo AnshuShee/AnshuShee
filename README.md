@@ -21,9 +21,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" height="300" width="400" align="right" style="margin-left: 20px;" alt="coding animation" />
 
-##### - 🎓 Pursuing **B.Tech in Computer Science at Swaminarayan University**
-##### - 💻 Aspiring **Full Stack Developer** specializing in the **MERN Stack**
-##### - 💡 Passionate about clean **UI/UX** design and smooth animations
+#### - 🎓 Pursuing **B.Tech in Computer Science at Swaminarayan University**
+#### - 💻 Aspiring **Full Stack Developer** specializing in the **MERN Stack**
+#### - 💡 Passionate about clean **UI/UX** design and smooth animations
 #### - 🧠 Strong in **DSA & Problem Solving** — actively grinding [LeetCode](https://leetcode.com/u/anshushee/)
 #### - ▪️ Debugging the present to architect tomorrow.
 #### - 🤝 Love collaborating and working in **team environments**
